@@ -3,10 +3,16 @@ Widecash Wallet
 
 Where is my blockchain data directory?
 
-Operating System	        Default Directory	            Full Configuration File Path
+Operating System             
 
-Windows 7, 8.1, 10	      %APPDATA%\widecash\	          C:\Users\username\AppData\Roaming\widecash\widecash.conf
-Linux	                    $HOME/.widecash/	            /home/username/.widecash/widecash.conf
+Windows 7, 8.1, 10
+
+Default Directory: %APPDATA%\widecash\	   
+Full Configuration File Path: C:\Users\username\AppData\Roaming\widecash\widecash.conf
+
+Linux
+Default Directory: $HOME/.widecash/	            
+Full Configuration File Path: /home/username/.widecash/widecash.conf
 
 
 What is Widecash?
