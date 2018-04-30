@@ -21,6 +21,11 @@ How can I backup wallet ?
 2) Open the folder "%APPDATA%\widecash\". 
 3) Copy the file wallet.dat to a safe location.
 
+or 
+
+1) Open wallet.
+2) Click File -> Click Bakup Wallet -> Chose location to save wallet file.
+
 How can I restore wallet?
 
 1) Close your wallet. 
