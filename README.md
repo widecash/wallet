@@ -11,6 +11,7 @@ Default Directory: %APPDATA%\widecash\
 Full Configuration File Path: C:\Users\username\AppData\Roaming\widecash\widecash.conf
 
 Linux
+
 Default Directory: $HOME/.widecash/	            
 Full Configuration File Path: /home/username/.widecash/widecash.conf
 
