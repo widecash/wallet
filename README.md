@@ -1,5 +1,14 @@
 Widecash Wallet
 ===========================
+
+Where is my blockchain data directory?
+
+Operating System	        Default Directory	            Full Configuration File Path
+
+Windows 7, 8.1, 10	      %APPDATA%\widecash\	          C:\Users\username\AppData\Roaming\widecash\widecash.conf
+Linux	                    $HOME/.widecash/	            /home/username/.widecash/widecash.conf
+
+
 What is Widecash?
 ===========================
 Widecash is an experimental digital currency that enables instant payments to anyone, anywhere in the world. Widecash uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Widecash Core is the name of open source software which enables the use of this currency.
