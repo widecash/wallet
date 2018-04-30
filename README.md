@@ -15,13 +15,13 @@ Linux
 Default Directory: $HOME/.widecash/	            
 Full Configuration File Path: /home/username/.widecash/widecash.conf
 
-How can i backup wallet ?
+How can I backup wallet ?
 
 1) Close your wallet. 
 2) Open the folder "%APPDATA%\widecash\". 
 3) Copy the file wallet.dat to a safe location.
 
-How can i restore wallet?
+How can I restore wallet?
 
 1) Close your wallet. 
 2) Make a backup of the folder "%APPDATA%\widecash\". 
